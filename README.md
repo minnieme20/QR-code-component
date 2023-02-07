@@ -1,0 +1,1 @@
+this is a QR code component duplicate. its my first project with frontendmentor.
